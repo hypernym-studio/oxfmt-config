@@ -49,7 +49,7 @@ export { default } from '@hypernym/oxfmt-config'
 
 import {
   defineConfig,
-  default as defaultConfig,
+  defaultConfig,
   ignorePatterns,
 } from '@hypernym/oxfmt-config'
 
