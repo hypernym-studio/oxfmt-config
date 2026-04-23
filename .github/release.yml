@@ -1,0 +1,38 @@
+changelog:
+  categories:
+    - title: Breaking Changes
+      labels:
+        - break
+        - breaking
+        - breaking-change
+    - title: Features
+      labels:
+        - feat
+        - feature
+    - title: Performance
+      labels:
+        - perf
+        - performance
+    - title: Bug Fixes
+      labels:
+        - fix
+        - bug
+        - bugfix
+    - title: Refactors
+      labels:
+        - refactor
+    - title: Types
+      labels:
+        - dts
+        - types
+    - title: Tests
+      labels:
+        - test
+        - tests
+    - title: Documentation
+      labels:
+        - docs
+        - documentation
+    - title: Other
+      labels:
+        - '*'
