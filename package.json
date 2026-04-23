@@ -35,6 +35,7 @@
     "build": "hyperbundler",
     "lint": "oxlint",
     "format": "oxfmt",
+    "changelog": "hyperchangelog",
     "prepublishOnly": "pnpm build"
   },
   "peerDependencies": {
