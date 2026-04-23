@@ -8,7 +8,7 @@ export const ignorePatterns: string[] = [
   '*.min.js',
 ]
 
-export default defineConfig({
+const defaultConfig = defineConfig({
   printWidth: 80,
   semi: false,
   tabWidth: 2,
@@ -17,4 +17,4 @@ export default defineConfig({
   ignorePatterns,
 })
 
-export { defineConfig } from 'oxfmt'
+export { defineConfig, defaultConfig, defaultConfig as default }
